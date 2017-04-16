@@ -1,0 +1,11 @@
+{
+  "name": "shopify-fall-2017",
+  "version": "0.0.1",
+  "description": "Solutions to the engineering problems for the Shopify Fall 2017 internship.",
+  "author": "Karim Alibhai",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request": "^2.81.0"
+  }
+}
